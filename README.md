@@ -1,9 +1,5 @@
-<p align="center">
+<p>
   <img src="https://i.imgur.com/EX64mNw.gif" alt="Banner GIF" width="45%" />
-</p>
-<p align="center">
-  <a href="[link-linkedin]">linkedin</a> ·
-  <a href="mailto:[seu-email]">email</a> ·
 </p>
 <table>
   <tr>
