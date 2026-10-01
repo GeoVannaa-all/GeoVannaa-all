@@ -1,31 +1,37 @@
 <p align="center">
-  <img src="https://i.imgur.com/EX64mNw.gif" alt="Banner GIF" width="30%" />
+  <img src="https://i.imgur.com/EX64mNw.gif" alt="Banner GIF" width="25%" />
 </p>
 
 <h1 align="center">Geovanna Almeida</h1>
 
 <p align="center">
-  estudante de Informática para Internet<br>
-  dev frontend em busca do fullstack · design web
+  Estudante de Informática para Internet · Dev Frontend · Web Design
 </p>
 
 <p align="center">
-  <a href="[link-linkedin]">linkedin</a> ·
-  <a href="mailto:[seu-email]">email</a> ·
-  <a href="[link-portfolio]">portfólio</a>
+  <a href="[link-linkedin]">LinkedIn</a> ·
+  <a href="mailto:[seu-email]">E-mail</a> ·
+  <a href="[link-portfolio]">Portfólio</a>
 </p>
 
 ---
 
-### tecnologias
+Construo interfaces para a web e estou expandindo meus estudos para o back-end.
 
-`HTML` `CSS` `JavaScript` `Vue` `Python` `Django` `Figma` `Git`
+### Tecnologias
 
-### estudando
+**Front-end:** HTML, CSS, JavaScript, Vue
+**Back-end:** Python, Django
+**Design:** Figma
+**Ferramentas:** Git
+**Estudando:** React, TypeScript, Flask, Docker
 
-`React` `TypeScript` `Flask` `Docker`
+### Projetos
 
-### projetos
+**[calma](https://github.com/GeoVannaa-all/calma)**
+[calabreso.]
+`Django` `HTML` `CSS`
 
-- [**calma**](https://github.com/GeoVannaa-all/calma): [uma frase sobre o projeto]
-- [**calabreso**](https://github.com/GeoVannaa-all/calabreso): [uma frase sobre o projeto]
+**[calabreso](https://github.com/GeoVannaa-all/calabreso)**
+[calma.]
+`Vue` `JavaScript`
