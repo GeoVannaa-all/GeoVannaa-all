@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/EX64mNw.gif" alt="Banner GIF" width="25%" />
+  <img src="https://i.imgur.com/EX64mNw.gif" alt="Banner GIF" width="45%" />
 </p>
 <p align="center">
   <a href="[link-linkedin]">linkedin</a> ·
   <a href="mailto:[seu-email]">email</a> ·
-  <a href="[link-portfolio]">portfólio</a>
 </p>
 <table>
   <tr>
