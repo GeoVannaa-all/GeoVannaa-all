@@ -21,7 +21,7 @@
 
 <br>
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📌 <a href="https://github.com/GeoVannaa-all/calma">calma</a></h3>
@@ -34,10 +34,10 @@
       <code>Vue</code> <code>JavaScript</code>
     </td>
   </tr>
-</table>
+</table> -->
 
 <br>
 
 <p align="center">
-  <sub>feito com carinho ♡</sub>
+  <sub>feito com muito monster ♡</sub>
 </p>
