@@ -1,26 +1,11 @@
 <p align="center">
   <img src="https://i.imgur.com/EX64mNw.gif" alt="Banner GIF" width="25%" />
 </p>
-
-<h1 align="center">Geovanna Almeida</h1>
-
-<p align="center">
-  🎓 estudante de Informática para Internet<br>
-  💻 dev frontend em busca do fullstack · 🎨 design web
-</p>
-
 <p align="center">
   <a href="[link-linkedin]">linkedin</a> ·
   <a href="mailto:[seu-email]">email</a> ·
   <a href="[link-portfolio]">portfólio</a>
 </p>
-
-<br>
-
-> Construo interfaces para a web e estou expandindo meus estudos para o back-end, com o objetivo de me tornar fullstack.
-
-<br>
-
 <table>
   <tr>
     <td width="60%" valign="top">
