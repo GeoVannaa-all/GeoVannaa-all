@@ -5,33 +5,54 @@
 <h1 align="center">Geovanna Almeida</h1>
 
 <p align="center">
-  Estudante de Informática para Internet · Dev Frontend · Web Design
+  🎓 estudante de Informática para Internet<br>
+  💻 dev frontend em busca do fullstack · 🎨 design web
 </p>
 
 <p align="center">
-  <a href="[link-linkedin]">LinkedIn</a> ·
-  <a href="mailto:[seu-email]">E-mail</a> ·
-  <a href="[link-portfolio]">Portfólio</a>
+  <a href="[link-linkedin]">linkedin</a> ·
+  <a href="mailto:[seu-email]">email</a> ·
+  <a href="[link-portfolio]">portfólio</a>
 </p>
 
----
+<br>
 
-Construo interfaces para a web e estou expandindo meus estudos para o back-end.
+> Construo interfaces para a web e estou expandindo meus estudos para o back-end, com o objetivo de me tornar fullstack.
 
-### Tecnologias
+<br>
 
-**Front-end:** HTML, CSS, JavaScript, Vue
-**Back-end:** Python, Django
-**Design:** Figma
-**Ferramentas:** Git
-**Estudando:** React, TypeScript, Flask, Docker
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🛠️ tecnologias</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,vue,py,django,figma,git&theme=dark" alt="Tecnologias" />
+    </td>
+    <td width="40%" valign="top">
+      <h3>🌱 estudando</h3>
+      <img src="https://skillicons.dev/icons?i=react,ts,flask,docker&theme=dark" alt="Estudando" />
+    </td>
+  </tr>
+</table>
 
-### Projetos
+<br>
 
-**[calma](https://github.com/GeoVannaa-all/calma)**
-[calabreso.]
-`Django` `HTML` `CSS`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📌 <a href="https://github.com/GeoVannaa-all/calma">calma</a></h3>
+      [calabreso]<br><br>
+      <code>Django</code> <code>HTML</code> <code>CSS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📌 <a href="https://github.com/GeoVannaa-all/calabreso">calabreso</a></h3>
+      [calma]<br><br>
+      <code>Vue</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
-**[calabreso](https://github.com/GeoVannaa-all/calabreso)**
-[calma.]
-`Vue` `JavaScript`
+<br>
+
+<p align="center">
+  <sub>feito com carinho ♡</sub>
+</p>
