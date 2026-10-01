@@ -1,7 +1,7 @@
 <p>
   <img src="https://i.imgur.com/EX64mNw.gif" alt="Banner GIF" width="45%" />
 </p>
-<table>
+<!--<table>
   <tr>
     <td width="60%" valign="top">
       <h3>🛠️ tecnologias</h3>
@@ -12,7 +12,7 @@
       <img src="https://skillicons.dev/icons?i=react,ts,flask,docker&theme=dark" alt="Estudando" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <br>
 
